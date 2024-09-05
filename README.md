@@ -2,7 +2,7 @@
 
 assignment3
 
-![lighthouse screenshot](<photos/Screenshot 2024-09-05 at 10.39.06 AM.png>)
+![lighthouse screen shot at final save](<photos/Screenshot 2024-09-05 at 1.25.47 PM.png>)
 
 ![colter wall album cover](photos/colter-wall-album-cover-from-little-songs.webp)
 
