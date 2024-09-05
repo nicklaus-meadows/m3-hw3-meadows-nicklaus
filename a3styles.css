@@ -4,3 +4,69 @@
     margin-right: auto;
     width: 50%;
 }
+
+body {
+    margin-left: 45px;
+    margin-right: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    background-color: #ede1d1;
+}
+
+/* change added for lighthouse spacing recommendation */
+li {
+    margin-bottom: 10px;
+}
+
+
+
+.navbar a {
+    float: left;
+    padding: 12px;
+    color: black;
+    text-decoration: underline;
+    font-size: 18px;
+    width: 30%; 
+    text-align: center; 
+  }
+
+  .navbar {
+    width: 100%;
+    background-color: #ede1d1;
+    overflow: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+
+  @media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+      width: 100%;
+      text-align: left; 
+    }
+  }
+
+  
+    footer a {
+        float: left;
+        padding: 12px;
+        color: black;
+        text-decoration: underline;
+        font-size: 12px;
+        width: 30%; 
+        text-align: center; 
+      }
+  
+
+  @media screen and (max-width: 500px) {
+    footer a {
+      float: none;
+      display: block;
+      width: 100%;
+      text-align: left; 
+    }
+  }
+  
